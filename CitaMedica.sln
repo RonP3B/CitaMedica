@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2017
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CitaMedica.Data", "CitaMedica.Data\CitaMedica.Data.csproj", "{DB2467D6-3DD7-4ED3-92B0-AB199A274A6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CitaMedica.UI.Windows", "CitaMedica.UI.Windows\CitaMedica.UI.Windows.csproj", "{34E2B008-261F-4802-9B06-B3E92528D94E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB2467D6-3DD7-4ED3-92B0-AB199A274A6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB2467D6-3DD7-4ED3-92B0-AB199A274A6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB2467D6-3DD7-4ED3-92B0-AB199A274A6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB2467D6-3DD7-4ED3-92B0-AB199A274A6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34E2B008-261F-4802-9B06-B3E92528D94E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34E2B008-261F-4802-9B06-B3E92528D94E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34E2B008-261F-4802-9B06-B3E92528D94E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34E2B008-261F-4802-9B06-B3E92528D94E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C798474E-CC6D-4D82-9499-C5A342E54C29}
+	EndGlobalSection
+EndGlobal
